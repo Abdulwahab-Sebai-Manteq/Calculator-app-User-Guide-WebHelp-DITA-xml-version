@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"topic_bzd_gyj_pvb-d287e77":{"topics":[{"title":"How to open the navigation menu?","href":"How%20to%20open%20the%20navigation%20menu.html","attributes":{"data-id":"task_zwr_lyj_pvb"},"menu":{"hasChildren":false},"tocID":"task_zwr_lyj_pvb-d287e85","topics":[]}]}};
